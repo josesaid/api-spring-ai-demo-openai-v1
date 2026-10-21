@@ -1,0 +1,7 @@
+spring:
+  ai:
+    openai:
+      api-key: ${API_KEY}
+
+#Define an environment variable at IntelliJ-idea
+#Compile and run project with SDK 21
