@@ -1,5 +1,7 @@
 # API Spring AI Demo - OpenAI v1
 
+![Java: 21](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![Spring_Boot: 4.1.0](https://img.shields.io/badge/Spring_Boot-4.1.0-6DB33F?logo=springboot&logoColor=white) ![Spring_AI: 2.0.0](https://img.shields.io/badge/Spring_AI-2.0.0-6DB33F) ![Model: OpenAI](https://img.shields.io/badge/Model-OpenAI-412991?logo=openai&logoColor=white)
+
 **Project page:** https://josesaid.github.io/api-spring-ai-demo-openai-v1/
 
 REST API built with **Spring Boot** and **Spring AI**, integrated with **OpenAI** models to expose a chat service.
